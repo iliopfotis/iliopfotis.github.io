@@ -1,0 +1,55 @@
+# jemdoc: menu{MENU}{~psimin/index.html}
+= Paris Syminelakis 
+
+~~~
+{}{img_left}{pics/picweb2.jpg}{}{}{}
+[http://www.stanford.edu/~psimin/index.html Paris Syminelakis (Siminelakis)] \n
+PhD Candidate \n
+[http://ee.stanford.edu/ Department of Electrical Engineering]\n
+[http://stanford.edu/ Stanford University] \n
+Email: *psimin* \at\ stanford dot edu 
+~~~
+
+
+== General Information
+I am a Ph.D. candidate at Stanford University having the pleasure of being advised by *Moses Charikar*. I hold a MSc in Statistics (Stanford University) and an Engineering Diploma in Electical and Computer Engineering (National Technical University of Athens). My interests lie in *Algorithms and Probability*. I enjoy applying methods from /Theoretical Computer Science/ to the analysis of /large datasets/ and problems in /Machine Learning/. 
+
+I occasionaly also organize a reading group on [http://www.stanford.edu/~psimin/group Algorithms, Geometry and Learning].
+
+#In December 2014, I received an M.Sc. from the Department of [https://statistics.stanford.edu/ #Statistics] at Stanford University. Before coming to the United States,  I obtained my Diploma #degree (5 years degree) from the School of [http://www.ece.ntua.gr/index.php?lang=en Electrical #and Computer Engineering] at the National Technical University of Athens (NTUA) in June 2011. 
+#At NTUA I was member of the [https://www.corelab.ntua.gr/index.html Computation and Reasoning #Laboratory] (CoreLab), advised by Prof. [http://www.softlab.ntua.gr/~fotakis/ Dimitris Fotakis]. #My research is/was funded by an [http://www.onassis.gr/en/ A.G.Onassis Foundation Scholarship] #and a Fellowship from the Department of Electrical Engineering at Stanford University.
+
+== Selected Publications
+- M. Charikar, PS. *Hashing-based-Estimators for Kernel Density in High Dimensions*, FOCS, 2017. 
+- D. Achlioptas, PS. *Symmetric Graph Properties Have Independent Edges*, ICALP, 2015\n /Special issue of Information and Computation/, 2018.
+- D. Fotakis, PS. *On the Efficiency of Influence-and-Exploit Strategies for Revenue Maximization under Positive Externalities*, WINE, 2012, /Theoretical Computer Science/, 2014.
+
+For the complete list and links click on the [publications.html publications tab].
+== Teaching  
+=== Teaching Assistant
+- [http://web.stanford.edu/class/cs369h/ CS369H /Hierarchies of Integer Programming Relaxations/], taught by *Moses Charikar*,\n Stanford University, Spring 2017.
+- [http://web.stanford.edu/class/cs369g/index.html CS369G /Algorithmic Techniques for Big Data/], taught by *Moses Charikar*,\n Stanford University, Spring 2016.
+- [http://snap.stanford.edu/class/cs224w-2015/ CS224W /Social and Information Network Analysis/], taught by *Lada Adamic*,\n Stanford University, Fall 2015.
+- [http://snap.stanford.edu/class/cs224w-2014/ CS224W /Social and Information Network Analysis/], taught by *Jure Leskovec*,\n Stanford University, Fall 2014.
+-  EE263 /Introduction to Linear Dynamical Systems/, taught by *Alex Lemon*,\n Stanford University,  Summer 2014.
+- [http://stanford.edu/class/ee365/index.html EE365 /Stochastic Control/], taught by *Sanjay Lall*,\n Stanford University, Spring 2014.
+- [http://corelab.ntua.gr/courses/algorithms/old/2010-2011/ Algorithms and Complexity], taught by *Dimitris Fotakis*,\n National Technical University of Athens, Fall 2010.
+
+#== Selected Coursework
+#~~~
+#{Stanford University}
+#Theory of Probability (STATS310 A,B), Theory of Statistics (STATS300 A,B), Convex Optimization (EE364A),  Modern Markov Chains (STATS 318), Introduction to Compressed Sensing (STATS 330), 
+#Inference, Estimation, Information Processing (EE378B), Topics in Probability Theory (STATS 350), #Topics in Bayesian Non-parametrics (STATS 362)
+#~~~
+
+#~~~
+#{National Technical University of Athens}
+#Algorithms and Complexity, Randomized Algorithms, Artificial Intelligence, Computer Vision, #Pattern Recognition, Digital Signal Processing, Robotics (I, II),  Discrete Mathematics, #Stochastic Control, Non-linear Control, Optimal Control.
+#~~~
+
+== Academic Service
+
+=== *Reviewer*
+- /Journals:/ SIAM Journal on Computing, Random Structures & Algorithms, PNAS, Networks (Wiley)
+- /Conferences:/  Symposium on Theory of Computing (STOC), Scandinavian Workshop in Algorithm Theory (SWAT).
+
